@@ -7,7 +7,7 @@
 
 💻 **Aspirante a Desenvolvedor Backend**  
 📚 **Estudante do 4º semestre de Análise e Desenvolvimento de Sistemas na FATEC**  
-🌱 **Especializando desenvolvimento Web com Java**  
+🌱 **Especializando em desenvolvimento Web com Java**  
 🎯 **Focado em dominar as ferramentas essenciais do mercado e aprofundar minha fundamentação em desenvolvimento Back-End**  
 💡 **Apaixonado por desafios e resolução de problemas**  
 🚀 **Buscando minha primeira oportunidade como Desenvolvedor Java**
