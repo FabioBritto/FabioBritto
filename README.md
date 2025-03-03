@@ -3,7 +3,7 @@
 [![Gmail](https://img.shields.io/badge/Email-Contato-red?style=flat&logo=gmail)](mailto:fabio.tritono@gmail.com)  
 
 ### Meu nome é Fabio Britto  
-**(Java | Spring Boot | Backend | SQL | REST APIs | Hibernate | Servlets | JSP ) 🚀**  
+**Java | Spring Boot | Backend | SQL | REST APIs | Hibernate | Servlets | JSP 🚀**  
 
 💻 **Aspirante a Desenvolvedor Backend**  
 📚 **Estudante do 4º semestre de Análise e Desenvolvimento de Sistemas na FATEC**  
